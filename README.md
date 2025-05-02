@@ -7,10 +7,8 @@
 Tired of waiting for Spotify Wrapped once a year? Get **real-time, hyper-detailed insights** into your listening habits with this comprehensive Spotify tracking and visualization project! Go beyond the surface-level stats and truly understand your musical journey.
 
 This project continuously monitors your Spotify activity, processes the data daily, and feeds it into dynamic dashboards (visualized here, but you can build your own!), offering a much richer and more immediate picture than the standard Wrapped summary.
-
-<video src="spotify_analytics.webm" controls width="720">
-    Your browser does not support the video tag.
-</video>
+**Demo Video:**  
+[▶️ Watch the demo (webm, 720px wide)](demo/spotify_analytics.webm)
 
 ## Features 🚀
 
