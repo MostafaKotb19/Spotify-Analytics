@@ -8,7 +8,7 @@ Tired of waiting for Spotify Wrapped once a year? Get **real-time, hyper-detaile
 
 This project continuously monitors your Spotify activity, processes the data daily, and feeds it into dynamic dashboards (visualized here, but you can build your own!), offering a much richer and more immediate picture than the standard Wrapped summary.
 **Demo Video:**  
-[▶️ Watch the demo (webm, 720px wide)](demo/spotify_analytics.webm)
+[▶️ Watch the demo](demo/spotify_analytics.mp4)
 
 ## Features 🚀
 
