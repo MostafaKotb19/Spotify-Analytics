@@ -1,0 +1,100 @@
+﻿{
+    "name": "Montserrat Theme N",
+    "dataColors": [
+        "#1DB954",
+        "#4176F5",
+        "#A050F0",
+        "#FFA726",
+        "#1ABC9C",
+        "#F4D03F",
+        "#E04E8F",
+        "#7BADE2",
+        "#EB5757",
+        "#B3B3B3",
+        "#56B4E9",
+        "#D55E00",
+        "#1DB954",
+        "#4176F5",
+        "#A050F0",
+        "#FFA726",
+        "#1ABC9C",
+        "#F4D03F",
+        "#E04E8F",
+        "#7BADE2",
+        "#EB5757",
+        "#B3B3B3",
+        "#56B4E9",
+        "#D55E00",
+        "#1DB954",
+        "#4176F5",
+        "#A050F0",
+        "#FFA726",
+        "#1ABC9C",
+        "#F4D03F",
+        "#E04E8F",
+        "#7BADE2",
+        "#EB5757",
+        "#B3B3B3",
+        "#56B4E9",
+        "#D55E00",
+        "#1DB954",
+        "#4176F5",
+        "#A050F0",
+        "#FFA726",
+        "#1ABC9C",
+        "#F4D03F",
+        "#E04E8F",
+        "#7BADE2",
+        "#EB5757",
+        "#B3B3B3",
+        "#56B4E9",
+        "#D55E00" 
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [{
+                    "fontFamily": "Montserrat",
+                    "fontSize": 10,
+                    "color": { "solid": { "color": "#252423" } }
+                }],
+                "labels": [{
+                    "fontFamily": "Montserrat",
+                    "color": { "solid": { "color": "#252423" } }
+                }],
+                "categoryLabels": [{
+                    "fontFamily": "Montserrat"
+                }],
+                "title": [{
+                    "fontFamily": "Montserrat",
+                    "fontSize": 13,
+                    "bold": true,
+                    "color": { "solid": { "color": "#252423" } }
+                }]
+            }
+        },
+        "card": {
+            "*": {
+                "*": [{ 
+                "fontFamily": "Montserrat" 
+                }],
+                "categoryLabels": [{
+                "fontSize": 12
+                }],
+                "calloutValue": [{
+                "fontSize": 36
+                }]
+            }
+        },
+        "tableEx": {
+            "*": {
+                "fontFamily": "Montserrat"
+            }
+        },
+        "pivotTable": {
+            "*": {
+                "fontFamily": "Montserrat"
+            }
+        }
+    }
+}

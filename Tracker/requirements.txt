@@ -1,0 +1,5 @@
+functions-framework==3.*
+spotipy
+gspread
+oauth2client
+pytz

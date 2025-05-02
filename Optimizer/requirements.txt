@@ -1,0 +1,7 @@
+functions-framework==3.*
+gspread
+pandas
+datetime
+oauth2client
+pytz
+spotipy
