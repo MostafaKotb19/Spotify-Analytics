@@ -8,9 +8,8 @@ Tired of waiting for Spotify Wrapped once a year? Get **real-time, hyper-detaile
 
 This project continuously monitors your Spotify activity, processes the data daily, and feeds it into dynamic dashboards (visualized here, but you can build your own!), offering a much richer and more immediate picture than the standard Wrapped summary.
 
-<!-- Example using HTML video tag (GitHub might render this) -->
-<video src="spotify analytics.mp4" width="720" controls autoplay loop muted>
-  Your browser does not support the video tag. (Link to video instead)
+<video src="spotify_analytics.webm" controls width="720">
+    Your browser does not support the video tag.
 </video>
 
 ## Features 🚀
@@ -53,24 +52,24 @@ The system is built on three core components automated on Google Cloud:
 
 ## Dashboard Showcase 📊
 
-**Overview & Top Lists:** Get a high-level summary and see your most played content.
-![Dashboard Overview](Pages\1_Overview.png)
+**Overview & Top Lists:** Get a high-level summary and see your most played content.  
+<img src="Pages/1_Overview.png" alt="Dashboard Overview" width="720"/>
 
-**Time Trends & Genre Distribution:** Understand your listening patterns over time.
-![Dashboard Time Trends](Pages\2_Trends&Distribution.png)
+**Time Trends & Genre Distribution:** Understand your listening patterns over time.  
+<img src="Pages/2_Trends&Distribution.png" alt="Dashboard Time Trends" width="720"/>
 
-**Artist Type Breakdown:** See your preferences for Bands, Duets, Features, and Solo artists.
-![Dashboard Artist Types](Pages\3_Artist Types.png)
+**Artist Type Breakdown:** See your preferences for Bands, Duets, Features, and Solo artists.  
+<img src="Pages/3_Artist Types.png" alt="Dashboard Artist Types" width="720"/>
 
-**Discovery:** Track when you first listened to new artists.
-![Dashboard Discovery](Pages\4_Discovery.png)
+**Discovery:** Track when you first listened to new artists.  
+<img src="Pages/4_Discovery.png" alt="Dashboard Discovery" width="720"/>
 
-**Weekly Patterns:** Find out which days you listen the most.
-![Dashboard Weekly Distribution](Pages\5_Week_Analysis.png)
+**Weekly Patterns:** Find out which days you listen the most.  
+<img src="Pages/5_Week_Analysis.png" alt="Dashboard Weekly Distribution" width="720"/>
 
-**Artist/Genre Deep Dive:** Filter and explore specific artists or genres.
-![Dashboard Artist Detail](Pages\6_Artist_Deep_Dive.png)
-![Dashboard Genre Detail](Pages\7_Genre_Deep_Dive.png)
+**Artist/Genre Deep Dive:** Filter and explore specific artists or genres.  
+<img src="Pages/6_Artist_Deep_Dive.png" alt="Dashboard Artist Detail" width="720"/>
+<img src="Pages/7_Genre_Deep_Dive.png" alt="Dashboard Genre Detail" width="720"/>
 
 ## Technical Stack 🛠️
 
